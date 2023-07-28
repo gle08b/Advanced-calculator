@@ -1,0 +1,25 @@
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form2.resources
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form3.resources
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form4.resources
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+Z:\6. BOOTCAMP\2 смена_Работы\Скориков\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.AssemblyReference.cache
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form1.resources
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form2.resources
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Form3.resources
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.GenerateResource.cache
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.exe
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.pdb
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe.config
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.exe
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\bin\Debug\AdvancedCalculator.pdb
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.Properties.Resources.resources
+C:\Users\student.ITSTEP\Downloads\AdvancedCalculator\AdvancedCalculator\obj\Debug\AdvancedCalculator.csproj.CoreCompileInputs.cache
